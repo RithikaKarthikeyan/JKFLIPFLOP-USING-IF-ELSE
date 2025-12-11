@@ -64,7 +64,9 @@ RegisterNumber: 25017528
 <img width="1920" height="1080" alt="Screenshot 2025-11-27 144205" src="https://github.com/user-attachments/assets/b4862196-0bd6-4a46-a818-13e62d48d916" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1920" height="1080" alt="Screenshot 2025-11-27 144550" src="https://github.com/user-attachments/assets/ef943493-c35d-4471-a09c-f225bc9ac782" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c625031-43f2-40cf-a301-d9636682c973" />
+
 
 **RESULTS**
+
 Thus, a JK FlipFlop is implemented using Verilog and has been validated their functionality using their functional tables.
